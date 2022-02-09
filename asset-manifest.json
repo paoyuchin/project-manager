@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-manager/static/css/main.56cb0dfa.chunk.css",
+    "main.js": "/project-manager/static/js/main.a58ec1aa.chunk.js",
+    "main.js.map": "/project-manager/static/js/main.a58ec1aa.chunk.js.map",
+    "runtime-main.js": "/project-manager/static/js/runtime-main.908a1289.js",
+    "runtime-main.js.map": "/project-manager/static/js/runtime-main.908a1289.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/project-manager/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.efcfcec5.chunk.js": "/project-manager/static/js/2.efcfcec5.chunk.js",
+    "static/js/2.efcfcec5.chunk.js.map": "/project-manager/static/js/2.efcfcec5.chunk.js.map",
+    "index.html": "/project-manager/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/project-manager/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.56cb0dfa.chunk.css.map": "/project-manager/static/css/main.56cb0dfa.chunk.css.map",
+    "static/js/2.efcfcec5.chunk.js.LICENSE.txt": "/project-manager/static/js/2.efcfcec5.chunk.js.LICENSE.txt",
+    "static/media/anchorrrrr.0a70e03f.jpg": "/project-manager/static/media/anchorrrrr.0a70e03f.jpg",
+    "static/media/resume_pic.f3895732.jpg": "/project-manager/static/media/resume_pic.f3895732.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.908a1289.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.efcfcec5.chunk.js",
+    "static/css/main.56cb0dfa.chunk.css",
+    "static/js/main.a58ec1aa.chunk.js"
+  ]
+}
