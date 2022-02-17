@@ -54,7 +54,7 @@ const ProfileIntro = () => {
                 </div>
                 <div>
                   <span className={classes.titleSet}>E-mail: </span>
-                  <span className="color_1">bow1130bow@gmail.com</span>
+                  <span className="color_1">work.yuchin@gmail.com</span>
                 </div>
               </div>
             </Grid>
